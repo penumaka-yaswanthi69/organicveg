@@ -1,0 +1,185 @@
+.navbar{
+    height:70px;
+}
+.stylinglogo{
+    width: 80px;
+    height:60px;
+    padding:3px;
+}
+
+
+header.navbar a{
+    font-size: 2rem;
+    padding:0 1.5rem;
+    color:#666;
+}
+header .navbar a:hover{
+    color:var(--pink);
+}
+header .icons a{
+    font-size:2.5rem;
+    color:#333;
+    margin-left:1.5rem;
+}
+header .icons a:hover{
+    color: var(--pink);
+}
+.bgimg1{
+    background-image: url("https://t4.ftcdn.net/jpg/01/57/63/67/240_F_157636703_07ZuTzYckBKnHMcQ9Yk6chap13KUvoTl.jpg");
+    background-size: cover;
+    height:60vh;
+}
+.scbar{
+    background-color: beige;
+    direction:left;
+    width: 100%;
+    height:50px;
+    font-size: 25px;
+    font-weight: bold;
+    padding:2px;
+}
+.heading{
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    color: white;
+    font-weight: bold;
+}
+.paraline{
+    color: #f5f7fa;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    font-size: 29px;
+}
+.buttonst{
+    color:white;
+    background-color:mediumseagreen;
+    width: 230px;
+    height:45px;
+    border-width: 0px;
+    border-radius: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.bgimg2{
+    background-color: azure;
+}
+.carding{
+    text-align: center;
+    background-color: beige;
+    border-style: solid;
+    border-width: 1px;
+    border-color:#00d916;
+    border-radius: 16px;
+}
+.cardimage{
+    width:120px;
+    height: 110px;
+}
+.chead{
+    color:#323f4b;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+}
+.cpara{
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 19px;
+}
+.text{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.subheading{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.subpara{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.cardhead{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+.buttonc{
+    padding:2px;
+    border-radius: 1px;
+}
+.cardc{
+    text-align: center;
+    background-color: beige;
+    border-style: solid;
+    border-width: 1px;
+    border-color:#00d916;
+    border-radius: 16px;
+}
+.bgimg3{
+    background-image: url("https://as2.ftcdn.net/v2/jpg/05/47/86/89/1000_F_547868933_gXuJIzhyGrDw9BwukSkiZkh5Z3kwhE6u.jpg");
+    height:70%;
+    width:100%;
+}
+.subhead{
+    color:aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 800;
+}
+.mainhead{
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.para{
+    color:aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+}
+.dealhead{
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.price{
+    color: mediumseagreen;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+.namehead{
+    font-size:18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
+.users{
+    size:8px;
+}
+#contact{
+    padding-bottom: 4rem;
+    background-color: grey;
+}
+.socialicons{
+    font-size:40px ;
+    cursor:pointer;
+}
+#icenter1{
+    text-align: center;
+}
+.fa-brands{
+    color: white;
+}
+.fa-facebook,.fa-instagram,.fa-linkedin{
+    margin:40px;
+}
+.fa-facebook:hover,.fa-instagram:hover,.fa-linkedin:hover{
+    color: #c90202;
+}
+.list-unstyled{
+    color:#333;
+    font-family: Arial, Helvetica, sans-serif;
+}
